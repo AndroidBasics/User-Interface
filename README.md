@@ -8,3 +8,5 @@ Impotant Links
 3. Common Android Views - https://drive.google.com/file/d/0B5XIkMkayHgRMVljUVIyZzNmQUU/view
 4. Typography material design - https://material.io/guidelines/style/typography.html#typography-language-categories-reference
 5. Text Apperance Google+ - https://plus.google.com/+AndroidDevelopers/posts/gQuBtnuk6iG
+6. Material design color palatte - https://material.io/guidelines/style/color.html#color-color-palette
+7. HTML color values - https://www.w3schools.com/colors/colors_hex.asp
